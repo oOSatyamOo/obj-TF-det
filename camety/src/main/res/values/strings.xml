@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_camera">Start Cam</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="lets_Start">Lets See Obejct in Camera</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+</resources>
